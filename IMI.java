@@ -5,7 +5,6 @@ public class IMI {
         p.defend();
         p.castSpell("Pisunk Pisunk rat ta na tha ya");
         p.useweapon();
-        // ppp
     }
 }
 
